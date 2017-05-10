@@ -1,2 +1,1 @@
-# netassa.github.io
-BirdBro's Personal Website
+# [BirdBro's Personal Website](http://netassa.github.io)
