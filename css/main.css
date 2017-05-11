@@ -44,6 +44,6 @@ h1 {
 footer ul{
 	margin: 20% auto 20px;
 }
-div.about h1,p{
+.about {
 	magin-left: 100px;
 }
