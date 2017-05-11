@@ -1,11 +1,11 @@
 body {
 	margin: 60px auto;
 	width: 100%;
-    text-align: center
 }
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+    text-align: center
 }
 a {
     text-decoration: none;
@@ -43,7 +43,4 @@ h1 {
 }
 footer ul{
 	margin: 20% auto 20px;
-}
-.about h1,p {
-	align: left;
 }
