@@ -1,1 +1,30 @@
 <!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<link rel="stylesheet" type="text/css" href="/css/home.css">
+	<title>{{ page.title }}</title>
+</head>
+<body>
+	<nav>
+		<ul>
+			<li><a href="/blog">Blog</a></li>
+			<li><a href="/Project">Project</a></li>
+		</ul>
+    </nav>
+    <div class="left">
+    	<div id="home">
+	      <a href="https://netassa.github.io"><img src="/res/images/home.jpg"></a>
+	    </div>
+	    <a href="https://netassa.github.io"><p><b>BirdBro</b></p></a>
+	    <a href="http://github.com/netassa">GitHub</a><br />
+		<a href="mailto:netassadove@gmail.com">Email</a>
+    </div>
+    <div class="right">  
+      {{ content }}
+    </div>
+    <footer>
+		<p><i>© 2016 Wuhan. Powered by <a href="http://jekyllrb.com">jekyll</a> & <a href="https://pages.github.com">Github Pages</a></i></p>
+  	</footer>
+</body>
+</html>
