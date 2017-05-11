@@ -1,9 +1,0 @@
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-# About Me
-我是一名大学生，同学都叫我鸟哥哥，喜欢捣鼓跟编程有关的一切事情，目前的兴趣是web，C++，Qt，Linux。搭建这个博客是为了方便自己以后的学习，把自己学习过程中遇到的好玩的东西记录下来，分享出来。欢迎交流。
-
-**Follow Me** [@Github](https://github.com/netassa)
-
-**Contact Me** <a href="mailto:netassadove@gmail.com">@netassadove</a>
-
-*© 2016 Wuhan. Powered by [jekyll](http://jekyllrb.com) & [Github Pages](https://pages.github.com/)*
