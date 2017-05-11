@@ -4,30 +4,33 @@
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" type="text/css" href="/css/main.css">
-    </style>
   </head>
   <body>
-    <div id="home">
-      <img src="/res/images/home.jpg">
-    </div>
-    <h2>BirdBro</h2>
-    <div id="back_ground"><img src="/res/images/background.jpg"/></div>
-    <nav>
-      <ul>
-          <li><a href="/">Home</a></li>
-          <li><a href="/blog">Blog</a></li>
-          <li><a href="/project">Project</a></li>
-          <li><a href="/about">About</a></li>
-      </ul>
+    <div class="head">
+	    <div id="home">
+	      <img src="/res/images/home.jpg">
+	    </div>
+	    <h2>BirdBro</h2>
+	    <div id="back_ground"><img src="/res/images/background.jpg"/></div>
+	    <nav>
+	      <ul>
+		  <li><a href="/">Home</a></li>
+		  <li><a href="/blog">Blog</a></li>
+		  <li><a href="/project">Project</a></li>
+		  <li><a href="/about">About</a></li>
+	      </ul>
     </nav>
+    </div>
 	<div class="container">
-	{{ content }}
+		{{ content }}
 	</div>
-    <footer>  
-      <ul>
-        <li><a href="http://github.com/netassa">GitHub</a></li>
-        <li><a href="mailto:netassadove@gmail.com">Email</a></li>
-      </ul>
+	<div class="head">
+		<footer>  
+		  <ul>
+			<li><a href="http://github.com/netassa">GitHub</a></li>
+			<li><a href="mailto:netassadove@gmail.com">Email</a></li>
+		  </ul>
     </footer>
+	</div>
   </body>
 </html>
