@@ -6,7 +6,7 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-div.head {
+div.about, div.head {
     text-align: center;
 }
 a {
@@ -45,4 +45,7 @@ h1 {
 }
 footer ul{
 	margin: 20% auto 20px;
+}
+div.about {
+	align: center;
 }
