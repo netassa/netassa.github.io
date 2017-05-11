@@ -7,8 +7,8 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 div.about, div.head {
-    padding-left: 10%;
-	padding-right: 10%;
+    padding-left: 20%;
+	padding-right: 20%;
 }
 a {
     text-decoration: none;
