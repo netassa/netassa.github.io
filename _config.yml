@@ -1,1 +1,2 @@
 name: BirdBro's Personal Website
+permalink: /blog/:year/:month/:day/:title
